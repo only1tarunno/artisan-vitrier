@@ -124,6 +124,7 @@ a{
 /* header starts */
 .header{
     background-color: var(--cs-white);
+    box-shadow: 0px 1px 8px 0 #ddd;
 }
 .navbar-brand{
 max-width: 120px;
